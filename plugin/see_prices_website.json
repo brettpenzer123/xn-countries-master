@@ -1,6 +1,11 @@
-[{"id":1,"name":"See All Prices at Xbox-Now.","alpha2":"en"},
+[{"id":1,"name":"See all prices at Xbox-Now.","alpha2":"en"},
 {"id":2,"name":"Alle Preise bei Xbox-Now anzeigen.","alpha2":"de"},
 {"id":3,"name":"Voir tous les prix sur Xbox-Now.","alpha2":"fr"},
 {"id":4,"name":"Vedi tutti i prezzi su Xbox-Now.","alpha2":"it"},
 {"id":5,"name":"См. Все цены на Xbox-Now.","alpha2":"ru"},
-{"id":6,"name":"اطلع على جميع الأسعار على Xbox-Now.","alpha2":"ar"}]
+{"id":6,"name":"اطلع على جميع الأسعار على Xbox-Now.","alpha2":"ar"},
+{"id":3,"name":"Xbox-Now에서 모든 가격을 확인하세요.","alpha2":"ko"},
+{"id":4,"name":"查看Xbox-Now的所有价格。","alpha2":"zh"},
+{"id":5,"name":"Veja todos os preços no Xbox-Now.","alpha2":"pt"},
+{"id":6,"name":"Zobacz wszystkie ceny na Xbox-Now.","alpha2":"pl"},
+{"id":6,"name":"Ver todos los precios en Xbox-Now.","alpha2":"es"}]

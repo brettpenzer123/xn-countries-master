@@ -3,4 +3,9 @@
 {"id":3,"name":"Prix ​​le moins cher","alpha2":"fr"},
 {"id":4,"name":"Prezzo più basso","alpha2":"it"},
 {"id":5,"name":"Самая низкая цена","alpha2":"ru"},
-{"id":6,"name":"ارخص سعر","alpha2":"ar"}]
+{"id":6,"name":"ارخص سعر","alpha2":"ar"},
+{"id":3,"name":"저렴한 가격","alpha2":"ko"},
+{"id":4,"name":"最便宜的价格","alpha2":"zh"},
+{"id":5,"name":"Preço mais barato","alpha2":"pt"},
+{"id":6,"name":"Najniższa cena","alpha2":"pl"},
+{"id":6,"name":"El precio más barato","alpha2":"es"}]

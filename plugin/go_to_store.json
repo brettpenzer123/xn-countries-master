@@ -3,4 +3,9 @@
 {"id":3,"name":"Accédez à la page du magasin.","alpha2":"fr"},
 {"id":4,"name":"Vai alla pagina del negozio.","alpha2":"it"},
 {"id":5,"name":"Перейти на страницу магазина.","alpha2":"ru"},
-{"id":6,"name":"اذهب إلى صفحة المتجر.","alpha2":"ar"}]
+{"id":6,"name":"اذهب إلى صفحة المتجر.","alpha2":"ar"},
+{"id":3,"name":"상점 페이지로 이동하십시오.","alpha2":"ko"},
+{"id":4,"name":"转到商店页面。","alpha2":"zh"},
+{"id":5,"name":"Vá para a página da loja.","alpha2":"pt"},
+{"id":6,"name":"Przejdź do strony sklepu.","alpha2":"pl"},
+{"id":6,"name":"Ve a la página de la tienda.","alpha2":"es"}]

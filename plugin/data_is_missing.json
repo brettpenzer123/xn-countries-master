@@ -3,4 +3,9 @@
 {"id":3,"name":"Les données sont manquantes.","alpha2":"fr"},
 {"id":4,"name":"Dati mancanti.","alpha2":"it"},
 {"id":5,"name":"Данные отсутствуют.","alpha2":"ru"},
-{"id":6,"name":"البيانات مفقودة.","alpha2":"ar"}]
+{"id":6,"name":"البيانات مفقودة.","alpha2":"ar"},
+{"id":3,"name":"데이터가 없습니다.","alpha2":"ko"},
+{"id":4,"name":"数据丢失。","alpha2":"zh"},
+{"id":5,"name":"Dados ausentes.","alpha2":"pt"},
+{"id":6,"name":"Brak danych.","alpha2":"pl"},
+{"id":6,"name":"Faltan datos.","alpha2":"es"}]

@@ -3,4 +3,9 @@
 {"id":3,"name":"Copie","alpha2":"fr"},
 {"id":4,"name":"Copia","alpha2":"it"},
 {"id":5,"name":"Копировать","alpha2":"ru"},
-{"id":6,"name":"نسخ","alpha2":"ar"}]
+{"id":6,"name":"نسخ","alpha2":"ar"},
+{"id":3,"name":"부","alpha2":"ko"},
+{"id":4,"name":"复制","alpha2":"zh"},
+{"id":5,"name":"cópia de","alpha2":"pt"},
+{"id":6,"name":"Kopiuj","alpha2":"pl"},
+{"id":6,"name":"Copiar","alpha2":"es"}]

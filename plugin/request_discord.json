@@ -3,4 +3,9 @@
 {"id":3,"name":"Demande via Xbox Now Discord","alpha2":"fr"},
 {"id":4,"name":"Richiedi tramite Xbox Now Discord","alpha2":"it"},
 {"id":5,"name":"Запрос через Xbox Now Discord","alpha2":"ru"},
-{"id":6,"name":"اطلب عبر Xbox Now Discord","alpha2":"ar"}]
+{"id":6,"name":"اطلب عبر Xbox Now Discord","alpha2":"ar"},
+{"id":3,"name":"Xbox Now Discord를 통해 요청","alpha2":"ko"},
+{"id":4,"name":"通过Xbox Now Discord请求","alpha2":"zh"},
+{"id":5,"name":"Solicitar via Xbox Now Discord","alpha2":"pt"},
+{"id":6,"name":"Poproś przez Xbox Now Discord","alpha2":"pl"},
+{"id":6,"name":"Solicitar a través de Xbox Now Discord","alpha2":"es"}]

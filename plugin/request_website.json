@@ -3,4 +3,9 @@
 {"id":3,"name":"Demande via le site Web Xbox Now","alpha2":"fr"},
 {"id":4,"name":"Richiedi tramite il sito Web Xbox Now","alpha2":"it"},
 {"id":5,"name":"Запрос через веб-сайт Xbox Now","alpha2":"ru"},
-{"id":6,"name":"اطلب عبر موقع Xbox Now الإلكتروني","alpha2":"ar"}]
+{"id":6,"name":"اطلب عبر موقع Xbox Now الإلكتروني","alpha2":"ar"},
+{"id":3,"name":"Xbox Now 웹 사이트를 통해 요청","alpha2":"ko"},
+{"id":4,"name":"通过Xbox Now网站请求","alpha2":"zh"},
+{"id":5,"name":"Solicitar via site do Xbox Now","alpha2":"pt"},
+{"id":6,"name":"Prośba za pośrednictwem witryny Xbox Now","alpha2":"pl"},
+{"id":6,"name":"Solicitar a través del sitio web de Xbox Now","alpha2":"es"}]
